@@ -2,7 +2,7 @@
 Av2 de Computação Móvel/ API REST e CONTEXT
 
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Matheusp007-226/Projeto_Mobile_av2/blob/main/LICENSE) 
+[![Watch the video](https://drive.google.com/drive/my-drive)
 
 # Sobre o projeto
 
