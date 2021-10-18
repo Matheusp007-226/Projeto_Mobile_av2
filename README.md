@@ -9,7 +9,7 @@ Av2 de Computação Móvel/ API REST e CONTEXT
 Uma aplicação CRUD em que permite criar cadastros de usuários .
 
 ## Layout da Aplicação
-![layout 1](assets/img/IMC_1.png) ![layout 2](assets/img/IMC_2.png)
+![layout 1](https://drive.google.com/drive/my-drive)
 
 # Tecnologias utilizadas
 ## Back end
